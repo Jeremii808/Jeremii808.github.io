@@ -4,11 +4,12 @@
     "label": "Aspiring Software Engineer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "jv1694@gmail.com",
-    "phone": "(808) 333-4444",
+    "resume": "",
+    "phone": "(808) 557-0971",
     "website": "https://Jeremii808.github.io",
     "summary": "Cool is the rule dude.",
     "location": {
-      "address": "",
+      "address": "P.O. Box 121",
       "postalCode": "96781",
       "city": "Papaikou",
       "countryCode": "USA",
@@ -32,91 +33,114 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Linux/Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Integrated Development Environments (IDE)",
+      "level": "",
+      "keywords": [
+        "MS Visual Studio",
+        "NetBeans",
+        "Eclipse"
+        ]
+    },
+    {
+      "name": "Database Management Systems",
+      "level": "",
+      "keywords": [
+        "MS SQL Server",
+        "MS Azure",
+        "MySQL"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Hilo",
-      "area": "Computer Science",
+      "location": "Hilo, HI 96720",
+      "area": "Computer Science, minor in communication",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2012-09-01",
+      "endDate": "2017-05-13",
+      "gpa": "3.1",
       "courses": [
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Data Structures",
+        "Theory of Computing",
+        "Linear Algebra",
+        "Numerical Analysis"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "United States Department of Defense",
+      "location": "Wahiawa, HI 96786",
+      "position": "Software Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "May 2016",
+      "endDate": "Aug 2016",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Applied my software engineering skills to develop an engineering tool that pulls data to trace virtual desktop infrastructure (VDI) sessions currently in use, available, and most/least used",
+        "Completed four software requirements by the end of internship (C#, HTML, SQL)",
+        "Produced multiple reports to evaluate network trends with VDI accounts - including IP addresses, desk IDs, users, organizations, and session usage"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Hilo",
+      "location": "Hilo, HI 96781",
+      "position": "University Housing Office Assistant",
+      "website": "",
+      "startDate": "Aug 2015",
+      "endDate": "May 2017",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Acted as the first point of contact for hundreds of student residents all while maintaining confidentiality",
+        "Organized campus and community events in collaboration with other campus organizations",
+        "Managed situations (emergencies, thefts, altercations, etc.) according to procedures and ensured proper documentation"
+      ]
+    },
+    {
+      "company": "Balloon Art by Jeremy",
+      "location": "Hilo, HI 96781",
+      "position": "Professional Balloon Artist",
+      "website": "",
+      "startDate": "May 2012",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Established a balloon twisting entertainment service for birthday parties, weddings, and special events",
+        "Volunteered my craft at Relay for Life to help raise money for the American Cancer Society",
+        "Memorized fifty-two balloon designs from watching YouTube tutorials and creating my own original designs"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
