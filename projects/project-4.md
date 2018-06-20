@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:images/cookie_quest_square.png
+image: images/cookie_quest_square.png
 title: Cookie Quest
 permalink: projects/cookie-quest
 # All dates must be YYYY-MM-DD format!
