@@ -5,16 +5,15 @@ image: images/cookie_quest_square.png
 title: Cookie Quest
 permalink: projects/cookie-quest
 # All dates must be YYYY-MM-DD format!
-date: 2013-01-31
+date: 2013-02-01
 labels:
   - C++
-  - GitHub
 summary: A text adventure game I developed for CS 151.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<!-- <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png"> -->
 
-Cotton is a text-based adventure game I developed that used a 3D array model for the game's world
+Cookie Quest is a text-based adventure game I developed that used a 3D array model for the game's world
 
 To give you a flavor of the game, here is an excerpt from one run:
 
