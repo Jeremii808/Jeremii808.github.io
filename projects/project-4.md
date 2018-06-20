@@ -11,7 +11,7 @@ labels:
 summary: A text adventure game I developed for CS 151.
 ---
 
-<!-- <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png"> -->
+<img class="ui image" src="{{ site.baseurl }}/images/cookie-quest-header.png">
 
 Cookie Quest is a text-based adventure game I developed that used a 3D array model for the game's world
 
