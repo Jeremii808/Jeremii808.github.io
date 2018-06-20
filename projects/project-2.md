@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/momoTN.jpg
 title: Seicho
 permalink: projects/seicho
 # All dates must be YYYY-MM-DD format!
