@@ -11,7 +11,7 @@ labels:
 summary: A Windows Phone app that helps users practice and improve their knowledge of correctly using kanji to form complete sentences. This was a year-long capstone project for CS 460/461 (Software Engineering)
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/seicho_gameplay.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
